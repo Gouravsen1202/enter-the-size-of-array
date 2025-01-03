@@ -2,8 +2,7 @@
 using namespace std;
 int main(){
 	int u;
-	cout<<"enter you size of arry";
-	cin>>u;
+	cout<<"enter you size of arry";	cin>>u;
 	int b[u];	for(int i=0;i<=u;i++){
 		cin>>b[i];
  	}
