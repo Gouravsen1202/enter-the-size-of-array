@@ -10,4 +10,4 @@ int main(){
 		cout<<b[i]<<endl;
 	}
 }
-//.....jo bhi value denge apan usko repet print hona chahiye:
+//.....jo bhii value denge apan usko repet print hona chahiye:
